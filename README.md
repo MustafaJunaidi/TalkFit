@@ -2,7 +2,7 @@
 
 ## is a voluntarily done project for an Audiology and Speech Pathology student in Zarqa University.
 
-<img = "https://github.com/MustafaJunaidi/TalkFit/assets/167349854/3537397c-509d-4e38-a519-a45c753fa7df" width = 250 height = 250/>
+<img = "https://github.com/MustafaJunaidi/TalkFit/assets/167349854/3537397c-509d-4e38-a519-a45c753fa7df" width = "250" height = "250"/>
 
 ![photo_3_2024-05-22_18-54-00](https://github.com/MustafaJunaidi/TalkFit/assets/167349854/3537397c-509d-4e38-a519-a45c753fa7df)
 
