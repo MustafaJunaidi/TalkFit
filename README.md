@@ -6,7 +6,7 @@
 
 # How the App Works
 
-## testing your sounds pronunciation (المصحِّح)
+## test your sounds pronunciation (المصحِّح)
 
 ![photo_5_2024-05-22_18-54-00](https://github.com/MustafaJunaidi/TalkFit/assets/167349854/5cdca707-1afd-4633-9f1d-a238c8a8e1ba) 
 
@@ -16,7 +16,7 @@
 
 ![photo_7_2024-05-22_18-54-00](https://github.com/MustafaJunaidi/TalkFit/assets/167349854/823e5151-b386-4ab5-9c7e-bd8649fb805b)
 
-## watching animated videos which illustrates the right steps to be taken for each sound (المدرِّب)
+## watch animated videos which illustrates the right steps to be taken for each sound (المدرِّب)
 
 ![photo_2_2024-05-22_18-54-00](https://github.com/MustafaJunaidi/TalkFit/assets/167349854/0e4ee597-847c-4f33-a57e-7c37914b4cd6)
 
