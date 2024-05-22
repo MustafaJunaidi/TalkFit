@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".VideoActivity"
+    android:orientation="vertical"
+    android:background="#f6f6f6">
+
+    <VideoView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/video"
+        android:onClick="videoPlay"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="شغّل"
+        android:textSize="30sp"
+        android:id="@+id/play"
+        android:onClick="videoPlay"/>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+        <TextView
+            android:id="@+id/cons"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="25sp"
+            android:justificationMode="inter_word"
+            android:fontFamily="Arabic UI Display Semibold"
+            android:padding="16dp"
+            android:textColor="#f6f6f6"
+            android:background="#4f657d" />
+    </ScrollView>
+
+</LinearLayout>

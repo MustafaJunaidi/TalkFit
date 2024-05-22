@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ListenActivity"
+    android:orientation="vertical"
+    android:background="#4f657d"
+    android:layoutDirection="rtl">
+    <Button
+        android:textAllCaps="false"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_margin="20dp"
+        android:layout_weight="1"
+        android:background="@drawable/shape"
+        android:text=" /s/ الصوت س"
+        android:textSize="30sp"
+        android:onClick="videoPage"
+        android:id="@+id/vb1" />
+    <Button
+        android:textAllCaps="false"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_weight="1"
+        android:layout_margin="20dp"
+        android:background="@drawable/shape"
+        android:text=" /r/ الصوت ر"
+        android:textSize="30sp"
+        android:onClick="videoPage"
+        android:id="@+id/vb2"/>
+    <Button
+        android:textAllCaps="false"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_weight="1"
+        android:layout_margin="20dp"
+        android:background="@drawable/shape"
+        android:text=" /ʕ/ الصوت ع"
+        android:textSize="30sp"
+        android:onClick="videoPage"
+        android:id="@+id/vb3"/>
+    <Button
+
+        android:textAllCaps="false"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_weight="1"
+        android:layout_margin="20dp"
+        android:background="@drawable/shape"
+        android:text="الصوت ك /k/"
+        android:textSize="30sp"
+        android:onClick="videoPage"
+        android:id="@+id/vb4"/>
+</LinearLayout>
