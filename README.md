@@ -1,6 +1,6 @@
 # TalkFit
 
-## is a voluntarily done project for an Audiology and Speech Pathology student in Zarqa University.
+## is a voluntarily done Android application project using Java for an Audiology and Speech Pathology student in Zarqa University.
 
 ![photo_3_2024-05-22_18-54-00](https://github.com/MustafaJunaidi/TalkFit/assets/167349854/3537397c-509d-4e38-a519-a45c753fa7df)
 
