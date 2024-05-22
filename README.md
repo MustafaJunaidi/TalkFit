@@ -14,7 +14,7 @@
 
 ![photo_6_2024-05-22_18-54-00](https://github.com/MustafaJunaidi/TalkFit/assets/167349854/74851f75-8dac-4142-8dda-f2c7f1ef27bb)
 
-![photo_7_2024-05-22_18-54-00](https://github.com/MustafaJunaidi/TalkFit/assets/167349854/823e5151-b386-4ab5-9c7e-bd8649fb805b)
+![photo_2024-05-22_19-34-15](https://github.com/MustafaJunaidi/TalkFit/assets/167349854/00067cd2-5e66-4884-aa01-b66e32932908)
 
 ## watch animated videos which illustrates the right steps to be taken for each sound (المدرِّب)
 
